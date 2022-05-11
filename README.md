@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./logo.jpg" alt="LuckyXSpam Logo">
+  <img src="https://te.legra.ph/file/66660dd586ba763dbca66.jpg">
 </p>
 <h1 align="center">
   <b>• RiZoeLXSpam •</b>
