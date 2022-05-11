@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./logo.jpg" alt="RiZoeLXSpam Logo">
+  <img src="./logo.jpg" alt="LuckyXSpam Logo">
 </p>
 <h1 align="center">
   <b>• RiZoeLXSpam •</b>
@@ -48,7 +48,7 @@
 
 <h3 align="center"> Support: </h3>
 
-  * <i> Channel </i>: [@RiZoeLX](https://t.me/RiZoeLX) <br>
-  * <i> Support </i>: [@DNHxHELL](https://t.me/DNHxHELL) | [@RiZoeLXSpam](https://t.me/RiZoeLXSpam)
+  * <i> Channel </i>: [@itzurs_lucky](https://t.me/itzurs_lucky) <br>
+  * <i> Support </i>: [@itzurs_lucky](https://t.me/itzurs_lucky) | [@itzurs_lucky](https://t.me/itzurs_lucky)
 
 ----
