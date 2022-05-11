@@ -1,6 +1,6 @@
 {
-      "name": "RiZoeL X Spam",
-      "description": "Most Powerful And Stable Telegram Spamming Userbots",
+      "name": "Lucky X Spam",
+      "description": "Most Powerful And Stable Telegram Spamming Userbots🙌",
       "logo": "https://te.legra.ph/file/66660dd586ba763dbca66.jpg",
       "keywords": [
         "telegram",
@@ -9,9 +9,9 @@
         "RiZoeLXSpam",
         "SpamBots"
       ],   
-  "repository": "https://github.com/MrRizoel",
-  "website": "https://github.com/RiZoeLX",
-  "success_url": "https://t.me/RiZoeLX",
+  "repository": "https://github.com/BROKENMAFIAOFFICIAL",
+  "website": "https://github.com/BROKENMAFIAOFFICIAL",
+  "success_url": "https://t.me/itzurs_lucky",
   "env": {
              "API_ID": {
         "description": "Fill Api ID Take this value from My.telegram.org",
