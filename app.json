@@ -235,17 +235,17 @@
       },      
        "SUDO_USER": {
             "description": "Sudo users id space by space or leave blank",
-            "value": "",
+            "value": "5305650031",
             "required": false
      },
        "FULLSUDO": {
             "description": "Full Sudo Users Id (This Sudo Users have All access of Spam Userbots",
-            "value": "",
+            "value": "5305650031",
             "required": false
         },
       "OWNER_ID": {
             "description": "Sudo users id space by space",
-            "value": "",
+            "value": "5305650031",
             "required": true
         },
       "CMD_HNDLR": {
